@@ -26,7 +26,7 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-6" value="đăng nhập tài khoản khách hàng" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="140" height="90" as="geometry" />
+          <mxGeometry x="40" y="340" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-7" value="email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-6">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -34,17 +34,20 @@
         <mxCell id="_KAAuAc08GYiABBizrwC-8" value="mật khẩu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-6">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_KAAuAc08GYiABBizrwC-10" value="login Admin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="140" height="120" as="geometry" />
+        <mxCell id="_KAAuAc08GYiABBizrwC-10" value="Register Admin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_KAAuAc08GYiABBizrwC-11" value="tên admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
+        <mxCell id="_KAAuAc08GYiABBizrwC-11" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_KAAuAc08GYiABBizrwC-14" value="email&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
+        <mxCell id="_KAAuAc08GYiABBizrwC-81" value="tên admin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_KAAuAc08GYiABBizrwC-12" value="mật khẩu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
+        <mxCell id="_KAAuAc08GYiABBizrwC-14" value="email&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KAAuAc08GYiABBizrwC-12" value="mật khẩu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-10">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-15" value="danh mục sản phẩm" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="140" height="120" as="geometry" />
@@ -270,6 +273,15 @@
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-75" value="thời gian thanh toán" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-69">
           <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KAAuAc08GYiABBizrwC-82" value="Login Admin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="670" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_KAAuAc08GYiABBizrwC-83" value="email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-82">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KAAuAc08GYiABBizrwC-84" value="mật khẩu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-82">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
