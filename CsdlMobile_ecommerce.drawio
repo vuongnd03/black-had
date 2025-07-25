@@ -217,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-61" value="yêu thích" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="170" width="140" height="210" as="geometry" />
+          <mxGeometry x="1140" y="170" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-62" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_KAAuAc08GYiABBizrwC-61" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -227,15 +227,6 @@
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-64" value="product_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_KAAuAc08GYiABBizrwC-61" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_KAAuAc08GYiABBizrwC-66" value="image" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_KAAuAc08GYiABBizrwC-61" vertex="1">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRyHarODM-kAbE8HNubk-1" value="tên sản phẩm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-61">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZRyHarODM-kAbE8HNubk-2" value="giá sản phẩm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_KAAuAc08GYiABBizrwC-61">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_KAAuAc08GYiABBizrwC-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_KAAuAc08GYiABBizrwC-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
