@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Trang-1" id="oZ52oYvjrc90oJdQxdDQ">
-    <mxGraphModel dx="533" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,6 +265,20 @@
             <mxPoint x="169.88" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FCq3Fmyx5i0fTkOlm-Q0-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="970" as="sourcePoint" />
+            <mxPoint x="530" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCq3Fmyx5i0fTkOlm-Q0-8" value="INIT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="[PSTN/VoIP/SIP] &#xa;       │&#xa;       ▼&#xa; ┌───────────────┐&#xa; │   Asterisk    │   ← tầng telephony&#xa; │ - SIP/RTP     │&#xa; │ - Dialplan    │&#xa; │ - Call routing│&#xa; │ - Ghi âm (RTP)│&#xa; └───────┬───────┘&#xa;         │&#xa;         ▼&#xa; ┌───────────────────────────┐&#xa; │ Ingestion Layer           │   ← tầng tiếp nhận audio&#xa; │ - SIPRecorder             │&#xa; │ - WebRTCUpload            │&#xa; │ - FileDrop                │&#xa; │ -&gt; Stream audio (chunks)  │&#xa; │ -&gt; Transcode (G711→PCM)   │&#xa; │ -&gt; Preview 30s (optional) │&#xa; │ -&gt; Đóng gói job (CallSession + audio) &#xa; └───────┬───────────────────┘&#xa;         │&#xa;         ▼&#xa; ┌───────────────────────────┐&#xa; │ Message Bus (Kafka/Rabbit)│   ← tầng truyền message&#xa; │  Topics:                  │&#xa; │   - audio.raw             │&#xa; │   - stt.output            │&#xa; │   - nlp.output            │&#xa; │   - scoring.output        │&#xa; │   - alerts                │&#xa; └───────┬───────────────────┘&#xa;         │&#xa;         ▼&#xa; ┌───────────────┐   ┌───────────────┐&#xa; │     STT       │   │     NLP       │   ← tầng phân tích&#xa; │ - audio→text  │   │ - sentiment   │&#xa; │ - transcript  │   │ - intent      │&#xa; └───────┬───────┘   └───────┬───────┘&#xa;         │                   │&#xa;         ▼                   ▼&#xa;     ┌───────────┐      ┌─────────────┐&#xa;     │ Scoring   │      │   Alerts    │  ← tầng đầu ra&#xa;     │ - QoS     │      │ - cảnh báo  │&#xa;     │ - script  │      │ - dashboard │&#xa;     └───────────┘      └─────────────┘" link="[PSTN/VoIP/SIP] &#xa;       │&#xa;       ▼&#xa; ┌───────────────┐&#xa; │   Asterisk    │   ← tầng telephony&#xa; │ - SIP/RTP     │&#xa; │ - Dialplan    │&#xa; │ - Call routing│&#xa; │ - Ghi âm (RTP)│&#xa; └───────┬───────┘&#xa;         │&#xa;         ▼&#xa; ┌───────────────────────────┐&#xa; │ Ingestion Layer           │   ← tầng tiếp nhận audio&#xa; │ - SIPRecorder             │&#xa; │ - WebRTCUpload            │&#xa; │ - FileDrop                │&#xa; │ -&gt; Stream audio (chunks)  │&#xa; │ -&gt; Transcode (G711→PCM)   │&#xa; │ -&gt; Preview 30s (optional) │&#xa; │ -&gt; Đóng gói job (CallSession + audio) &#xa; └───────┬───────────────────┘&#xa;         │&#xa;         ▼&#xa; ┌───────────────────────────┐&#xa; │ Message Bus (Kafka/Rabbit)│   ← tầng truyền message&#xa; │  Topics:                  │&#xa; │   - audio.raw             │&#xa; │   - stt.output            │&#xa; │   - nlp.output            │&#xa; │   - scoring.output        │&#xa; │   - alerts                │&#xa; └───────┬───────────────────┘&#xa;         │&#xa;         ▼&#xa; ┌───────────────┐   ┌───────────────┐&#xa; │     STT       │   │     NLP       │   ← tầng phân tích&#xa; │ - audio→text  │   │ - sentiment   │&#xa; │ - transcript  │   │ - intent      │&#xa; └───────┬───────┘   └───────┬───────┘&#xa;         │                   │&#xa;         ▼                   ▼&#xa;     ┌───────────┐      ┌─────────────┐&#xa;     │ Scoring   │      │   Alerts    │  ← tầng đầu ra&#xa;     │ - QoS     │      │ - cảnh báo  │&#xa;     │ - script  │      │ - dashboard │&#xa;     └───────────┘      └─────────────┘" id="FCq3Fmyx5i0fTkOlm-Q0-9">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="680" y="1040" width="350" height="700" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
