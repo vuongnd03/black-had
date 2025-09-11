@@ -262,6 +262,9 @@
         <mxCell id="lYN4OYt0fOrp-CvqFd3v-72" value="Streaming" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1330" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lYN4OYt0fOrp-CvqFd3v-73" value="dùng thư viện ffmpeg để xử lý audio ,lọc audio&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="490" width="700" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
