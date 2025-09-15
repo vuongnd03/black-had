@@ -34,7 +34,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="120" as="sourcePoint" />
-            <mxPoint x="920" y="120" as="targetPoint" />
+            <mxPoint x="1070" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.592;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LO6o5B8Rzxp5qeYpZbEu-1">
@@ -109,12 +109,12 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-23" value="xác nhận thông báo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-24" value="ghi log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-24" value="lưu lịch sử" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="460" as="sourcePoint" />
+            <mxPoint x="250" y="560" as="sourcePoint" />
             <mxPoint x="250" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -284,6 +284,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="120" as="sourcePoint" />
             <mxPoint x="920" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-60" value="Quản lý cấu hình hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-61" value="Quản lý cấu hình định dạng audio chuẩn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-62" value="Quản lý cấu hình lưu trữ adio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-63" value="Quản lý cấu hình nhận audio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-64" value="Cập nhật cấu hình SIP/VoIP Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-65" value="ghi log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="120" as="sourcePoint" />
+            <mxPoint x="1070" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="559.78" as="sourcePoint" />
+            <mxPoint x="270" y="559.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
