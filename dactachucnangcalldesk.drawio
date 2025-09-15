@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.1">
   <diagram name="Page-1" id="m0kay6hhD1H1Rvdl78w_">
-    <mxGraphModel dx="402" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,18 @@
             <mxPoint x="620" y="560" as="sourcePoint" />
             <mxPoint x="650" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-50" value="quản lý người dùng và phân quyền" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-51" value="Tạo tài khoản Agent/Manager." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-52" value="Gán quyền" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-53" value="mở / khoá tài khoản" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
