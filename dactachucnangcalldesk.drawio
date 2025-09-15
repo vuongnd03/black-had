@@ -34,7 +34,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="120" as="sourcePoint" />
-            <mxPoint x="1840" y="120" as="targetPoint" />
+            <mxPoint x="2180" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.592;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LO6o5B8Rzxp5qeYpZbEu-1">
@@ -600,6 +600,15 @@
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-131" value="Quản lý tích hợp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2179.57" y="120" as="sourcePoint" />
+            <mxPoint x="2179.57" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-133" value="Quản lý tích hợp bên thứ 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
