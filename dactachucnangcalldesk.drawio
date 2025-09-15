@@ -331,7 +331,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-73" value="quản lý ngôn ngữ và mô hình" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-74" value="xử lý lỗi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-74" value="xử lý lỗi và thử lại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-75" value="Lưu trữ&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
