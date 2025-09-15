@@ -492,7 +492,7 @@
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-106" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1560" y="390" as="sourcePoint" />
+            <mxPoint x="1560" y="450" as="sourcePoint" />
             <mxPoint x="1560" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -570,6 +570,9 @@
             <mxPoint x="-150" y="600" as="sourcePoint" />
             <mxPoint x="-110" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-123" value="Theo dõi và báo cáo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
