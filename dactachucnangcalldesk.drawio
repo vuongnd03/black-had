@@ -17,7 +17,7 @@
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-5" value="Xem log hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-6" value="Cập nhật call theo real-time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="250" width="120" height="60" as="geometry" />
@@ -137,13 +137,13 @@
           <mxGeometry x="300" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-32" value="check log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-33" value="check erro" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-34" value="tiến trình đang xử lý" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -168,26 +168,26 @@
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="560" as="sourcePoint" />
-            <mxPoint x="620" y="240" as="targetPoint" />
+            <mxPoint x="560" y="560" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="279.8" as="sourcePoint" />
-            <mxPoint x="650" y="279.8" as="targetPoint" />
+            <mxPoint x="560" y="279.83" as="sourcePoint" />
+            <mxPoint x="590" y="279.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-42" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="379.8" as="sourcePoint" />
-            <mxPoint x="650" y="379.8" as="targetPoint" />
+            <mxPoint x="560" y="379.83" as="sourcePoint" />
+            <mxPoint x="590" y="379.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-43" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="459.8" as="sourcePoint" />
-            <mxPoint x="650" y="459.8" as="targetPoint" />
+            <mxPoint x="560" y="459.67" as="sourcePoint" />
+            <mxPoint x="590" y="459.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-44" value="tỉ lệ&amp;nbsp; đạt / không đạt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -209,12 +209,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-48" value="xuất log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="560" as="sourcePoint" />
-            <mxPoint x="650" y="560" as="targetPoint" />
+            <mxPoint x="560" y="559.83" as="sourcePoint" />
+            <mxPoint x="590" y="559.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-50" value="quản lý user và phân quyền" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -579,8 +579,8 @@
         </mxCell>
         <mxCell id="649YIrrWaCjxe9wPivio-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="240" as="sourcePoint" />
-            <mxPoint x="700" y="240" as="targetPoint" />
+            <mxPoint x="560" y="240" as="sourcePoint" />
+            <mxPoint x="640" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="649YIrrWaCjxe9wPivio-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -639,8 +639,8 @@
         </mxCell>
         <mxCell id="649YIrrWaCjxe9wPivio-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="240" as="sourcePoint" />
-            <mxPoint x="700" y="220" as="targetPoint" />
+            <mxPoint x="639.83" y="240" as="sourcePoint" />
+            <mxPoint x="639.83" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="649YIrrWaCjxe9wPivio-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
