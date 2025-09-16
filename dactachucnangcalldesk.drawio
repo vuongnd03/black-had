@@ -477,7 +477,7 @@
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-115" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-270" y="495" as="sourcePoint" />
+            <mxPoint x="-270" y="670" as="sourcePoint" />
             <mxPoint x="-270" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -687,6 +687,21 @@
         </mxCell>
         <mxCell id="tGk3e60lSxTob57Z_ADE-1" value="giám sát và báo cáo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGk3e60lSxTob57Z_ADE-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="569.17" as="sourcePoint" />
+            <mxPoint x="-230" y="569.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGk3e60lSxTob57Z_ADE-3" value="Phân quyền truy cập File" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGk3e60lSxTob57Z_ADE-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="670" as="sourcePoint" />
+            <mxPoint x="-230" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
