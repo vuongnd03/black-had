@@ -136,7 +136,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-31" value="Gán điểm nhóm tiêu chí" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-32" value="kiểm tra log cuộc gọi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-32" value="check log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-33" value="lỗi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
