@@ -23,7 +23,7 @@
           <mxGeometry x="-120" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-7" value="Điểm trung bình call" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-8" value="chất lượng trung bình" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="520" width="120" height="60" as="geometry" />
