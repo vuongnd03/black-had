@@ -108,7 +108,7 @@
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="560" as="sourcePoint" />
+            <mxPoint x="180" y="460" as="sourcePoint" />
             <mxPoint x="180" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -274,19 +274,10 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-64" value="Cập nhật cấu hình SIP/VoIP Gateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-65" value="ghi log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="120" as="sourcePoint" />
             <mxPoint x="1070" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="559.8299999999999" as="sourcePoint" />
-            <mxPoint x="200" y="559.8299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-68" value="Quản lý chuyển đổi văn bản" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
