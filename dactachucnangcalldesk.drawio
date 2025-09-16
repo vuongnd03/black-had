@@ -268,7 +268,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-62" value="lưu trữ audio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-63" value="cấu hình audio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-63" value="cấu hình nhận audio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-64" value="Cập nhật cấu hình SIP/VoIP Gateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
