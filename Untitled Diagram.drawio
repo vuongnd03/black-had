@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.2">
   <diagram name="Page-1" id="EZKo6Iak0aGbaEkY86H6">
-    <mxGraphModel dx="3730" dy="2680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3319" dy="2454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wzDemx3nPhMN1dmbau8B-74" value="Quản lý chuyển đổi văn bản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1090" width="120" height="80" as="geometry" />
+          <mxGeometry x="1350" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wzDemx3nPhMN1dmbau8B-75" value="Trích xuất STT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="900" width="80" height="80" as="geometry" />
@@ -425,7 +425,7 @@
             <mxPoint x="1530" y="1324.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzDemx3nPhMN1dmbau8B-93" value="include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.729;entryY=0.93;entryDx=0;entryDy=0;exitX=0.028;exitY=0.291;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="wzDemx3nPhMN1dmbau8B-64">
+        <mxCell id="wzDemx3nPhMN1dmbau8B-93" value="include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.729;entryY=0.93;entryDx=0;entryDy=0;exitX=0.383;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="wzDemx3nPhMN1dmbau8B-74" target="wzDemx3nPhMN1dmbau8B-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1275" y="1144" as="sourcePoint" />
             <mxPoint x="895" y="890" as="targetPoint" />
@@ -603,6 +603,12 @@
               <mxPoint x="1020" y="450" />
               <mxPoint x="1260" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzDemx3nPhMN1dmbau8B-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="1600" as="sourcePoint" />
+            <mxPoint x="1350" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
