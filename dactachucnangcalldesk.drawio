@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.2">
   <diagram name="Page-1" id="m0kay6hhD1H1Rvdl78w_">
-    <mxGraphModel dx="1289" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,10 +131,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-30" value="thiết lập điểm ngưỡng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-31" value="đặt tiêu chí" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-32" value="kiểm tra log cuộc gọi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
@@ -147,20 +147,20 @@
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="470" as="sourcePoint" />
-            <mxPoint x="430" y="250" as="targetPoint" />
+            <mxPoint x="370" y="480" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="280" as="sourcePoint" />
-            <mxPoint x="460" y="280" as="targetPoint" />
+            <mxPoint x="370" y="279.86" as="sourcePoint" />
+            <mxPoint x="400" y="279.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="379.76" as="sourcePoint" />
-            <mxPoint x="460" y="379.76" as="targetPoint" />
+            <mxPoint x="370" y="379.71" as="sourcePoint" />
+            <mxPoint x="400" y="379.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -305,12 +305,12 @@
           <mxGeometry x="1210" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-75" value="Lưu trữ&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-76" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="469.7" as="sourcePoint" />
-            <mxPoint x="460" y="469.7" as="targetPoint" />
+            <mxPoint x="370" y="479.43" as="sourcePoint" />
+            <mxPoint x="400" y="479.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-77" value="Quản lý giám sát hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
