@@ -220,7 +220,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-50" value="quản lý user và phân quyền" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-51" value="Tạo tài khoản Agent/Manager." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-51" value="CRUD tài khoản Agent/Manager." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-52" value="Gán quyền" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
