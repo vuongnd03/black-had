@@ -463,10 +463,10 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-111" value="Quản lý ghi âm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-112" value="Quản lý luồng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-112" value="Upload" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-113" value="Quản lý file ghi âm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-113" value="Dowload" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-114" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -493,7 +493,7 @@
             <mxPoint x="-230" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-119" value="giám sát và báo cáo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-119" value="Delete" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-120" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -684,6 +684,9 @@
             <mxPoint x="1510" y="280" as="sourcePoint" />
             <mxPoint x="1510" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGk3e60lSxTob57Z_ADE-1" value="giám sát và báo cáo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
