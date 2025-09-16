@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.2">
   <diagram name="Page-1" id="m0kay6hhD1H1Rvdl78w_">
-    <mxGraphModel dx="1377" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-30" value="CRUD Tiêu Chí" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-31" value="đặt tiêu chí" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-31" value="Gán điểm nhóm tiêu chí" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-32" value="kiểm tra log cuộc gọi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -307,13 +307,13 @@
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-74" value="xử lý lỗi và thử lại" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-75" value="Lưu trữ&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LO6o5B8Rzxp5qeYpZbEu-75" value="export mẫu chấm điểm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-76" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="479.43" as="sourcePoint" />
-            <mxPoint x="400" y="479.43" as="targetPoint" />
+            <mxPoint x="370" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LO6o5B8Rzxp5qeYpZbEu-77" value="Quản lý giám sát hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -746,6 +746,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="522" y="440" as="sourcePoint" />
             <mxPoint x="530" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGk3e60lSxTob57Z_ADE-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LO6o5B8Rzxp5qeYpZbEu-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="650" as="sourcePoint" />
+            <mxPoint x="420" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
