@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="Page-1" id="G9xiFKug8nNEHU4Qc6Kt">
-    <mxGraphModel dx="823" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,18 @@
             <mxPoint x="870" y="639.33" as="sourcePoint" />
             <mxPoint x="900" y="639.5200000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-70" value="Quản lý hệ thống thanh toán" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-71" value="Quản lý tích hợp thanh toán bên thứ 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-72" value="Quản lý các gói cước" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-73" value="Quản lý các gói cước" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
