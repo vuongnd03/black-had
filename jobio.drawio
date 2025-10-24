@@ -229,6 +229,18 @@
         <mxCell id="YYRI2rdI4tY2woOfrceG-43" value="kiểm soát các banner quảng cáo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-44" value="Hỗ trợ và giải quyết khiếu nại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-45" value="Tiếp nhận và xử lý báo cáo về user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-46" value="hỗ trợ kỹ thuật&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-47" value="trung tâm điều phối" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
