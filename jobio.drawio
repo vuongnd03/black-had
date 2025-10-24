@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="Page-1" id="G9xiFKug8nNEHU4Qc6Kt">
-    <mxGraphModel dx="1440" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="480" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,6 +429,21 @@
             <mxPoint x="1290.5" y="300" as="sourcePoint" />
             <mxPoint x="1290" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-83" value="Quản trị nội bộ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="230" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-84" value="Quản trị hệ thống &amp;amp; Kỹ thuật" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-85" value="Quản trị kinh doanh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-86" value="Quản trị vận hành" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-87" value="Quản trị phân tích và dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
