@@ -49,6 +49,12 @@
         <mxCell id="YYRI2rdI4tY2woOfrceG-3" value="Chức năng của người sáng lập/quản trị chung hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-5" value="Phân quyền siêu cấp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-6" value="Cấp tài khoản cho user / doanh nghiệp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
