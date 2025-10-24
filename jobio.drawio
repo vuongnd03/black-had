@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YYRI2rdI4tY2woOfrceG-3" value="Chức năng của người sáng lập/quản trị chung hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="190" height="60" as="geometry" />
+          <mxGeometry x="360" y="220" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYRI2rdI4tY2woOfrceG-5" value="Phân quyền siêu cấp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
@@ -194,6 +194,30 @@
             <Array as="points">
               <mxPoint x="430" y="410" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="710" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YYRI2rdI4tY2woOfrceG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.76" y="300" as="sourcePoint" />
+            <mxPoint x="259.76" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.76" y="301" as="sourcePoint" />
+            <mxPoint x="429.76" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
