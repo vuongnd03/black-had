@@ -481,6 +481,21 @@
         <mxCell id="YYRI2rdI4tY2woOfrceG-95" value="Quản trị kinh doanh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-96" value="giám sát tài nguyên ram,cpu,..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-98" value="giám sát ứng dụng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-99" value="phản hồi api call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-100" value="hiệu suất csdl" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-101" value="trạng thái kết nối" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1170" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
