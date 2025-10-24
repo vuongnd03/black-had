@@ -55,6 +55,9 @@
         <mxCell id="YYRI2rdI4tY2woOfrceG-6" value="Cấp tài khoản cho user / doanh nghiệp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YYRI2rdI4tY2woOfrceG-7" value="Thu hồi tài khoản" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
