@@ -475,7 +475,7 @@
         <mxCell id="YYRI2rdI4tY2woOfrceG-93" value="Giám sát hạ tầng và hiệu năng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YYRI2rdI4tY2woOfrceG-94" value="giám sát ứng dụng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YYRI2rdI4tY2woOfrceG-94" value="quản lý bảo mật và rủi ro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YYRI2rdI4tY2woOfrceG-95" value="Quản trị kinh doanh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
