@@ -823,6 +823,9 @@
             <mxPoint x="939.7" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-63" value="Xác thực và xây dựng thương hiệu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
