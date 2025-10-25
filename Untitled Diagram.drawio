@@ -544,6 +544,9 @@
         <mxCell id="7AoB5-LnUC0BBUJFf7nc-5" value="hệ thống ticket hỗ trợ doanh nghiệp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-6" value="hệ thống ticket hỗ trợ user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
