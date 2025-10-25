@@ -724,6 +724,15 @@
         <mxCell id="7AoB5-LnUC0BBUJFf7nc-43" value="Theo dõi số lượng ứng viên ứng tuyển" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-44" value="Săp xếp ứng viên theo đề cử do AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-45" value="Nhắn tin với ứng viên" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-46" value="Xem hồ sơ ứng viên" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
