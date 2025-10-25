@@ -547,6 +547,12 @@
         <mxCell id="7AoB5-LnUC0BBUJFf7nc-6" value="hệ thống ticket hỗ trợ user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-7" value="Hệ thống CRM nội bộ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-8" value="Quản lý chi phí và tài nguyên đám mây" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
