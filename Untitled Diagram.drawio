@@ -862,6 +862,9 @@
         <mxCell id="7AoB5-LnUC0BBUJFf7nc-72" value="Cập nhật" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-73" value="Gửi lời mời phỏng vấn qua hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
