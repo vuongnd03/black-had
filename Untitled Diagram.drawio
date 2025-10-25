@@ -649,6 +649,30 @@
             <mxPoint x="1440" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-26" value="Quản trị phân tích và dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-27" value="Phân tích doanh thu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-28" value="Phân tích khiếu nại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-29" value="Phân tích lượt đánh giá" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-30" value="Phân tích kinh doanh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-31" value="Phân tích thị trường lao động" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-32" value="Phân tích xu hướng việc làm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-33" value="Phân tích mức lương trung bình mỗi ngành nghề" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
