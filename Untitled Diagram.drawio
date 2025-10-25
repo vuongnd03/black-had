@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="Page-1" id="l68N9XP2YMsely-68K35">
-    <mxGraphModel dx="864" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1329" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,7 +479,7 @@
           <mxGeometry x="515" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bx83p4NyNRHjwheVg7h-98" value="Quản trị kinh doanh" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bx83p4NyNRHjwheVg7h-99" value="giám sát tài nguyên ram,cpu,..." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="950" width="120" height="60" as="geometry" />
@@ -561,6 +561,12 @@
         </mxCell>
         <mxCell id="7AoB5-LnUC0BBUJFf7nc-10" value="Theo dõi hoa đơn sử dụng dịch vụ đám mây&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-11" value="Xuất biểu đồ doanh thu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7AoB5-LnUC0BBUJFf7nc-12" value="Xuất biểu đồ người dùng theo dộ tuổi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
