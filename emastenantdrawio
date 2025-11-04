@@ -7,7 +7,7 @@
         <mxCell id="JgBjKPlnXUPRe16XJr7Y-1" value="Middleware FIlter tenant" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NCocfo4VDBeSz3cJldL3-1" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NCocfo4VDBeSz3cJldL3-1" value="nhận request" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="125" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NCocfo4VDBeSz3cJldL3-2" value="Hostname" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -22,9 +22,6 @@
         <mxCell id="NCocfo4VDBeSz3cJldL3-4" value="nhận request" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NCocfo4VDBeSz3cJldL3-5" value="gán tenant_key" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NCocfo4VDBeSz3cJldL3-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="160" as="sourcePoint" />
@@ -34,7 +31,7 @@
         <mxCell id="NCocfo4VDBeSz3cJldL3-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &quot;user&quot;:&quot;abc&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; &quot;tenant&quot;: &quot;tenantA&quot;.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;host&quot;: &quot;tenantA.com&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="UnRmLulXv2fZI6FX5GN9-1" value="Midkeware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UnRmLulXv2fZI6FX5GN9-1" value="Midleware&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnRmLulXv2fZI6FX5GN9-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UnRmLulXv2fZI6FX5GN9-1">
@@ -42,6 +39,9 @@
             <mxPoint x="50" y="170" as="sourcePoint" />
             <mxPoint x="100" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UnRmLulXv2fZI6FX5GN9-3" value="backend" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
