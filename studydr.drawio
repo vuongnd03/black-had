@@ -323,7 +323,7 @@
           <mxGeometry x="425" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-67" value="xem slide đã được trên trường" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-68" value="Làm bài tập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="780" width="120" height="60" as="geometry" />
@@ -354,6 +354,9 @@
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-77" value="phân loại danh mục tài liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-78" value="Phân loại các môn học" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
