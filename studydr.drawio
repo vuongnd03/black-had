@@ -28,6 +28,9 @@
         <mxCell id="Cu6mn6LIJM333gx_h7OB-6" value="trình chiếu bằng AI có giọng đọc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-7" value="Quản lý bài tập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
