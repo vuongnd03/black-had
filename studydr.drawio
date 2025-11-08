@@ -49,7 +49,7 @@
         <mxCell id="Cu6mn6LIJM333gx_h7OB-14" value="xoá tài khoản" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cu6mn6LIJM333gx_h7OB-15" value="cập nhật" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-15" value="cập nhật thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
