@@ -34,6 +34,9 @@
         <mxCell id="Cu6mn6LIJM333gx_h7OB-8" value="Tạo bài tập trắc nghiệm/tự luận" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-9" value="Cấu hình thời gian làm bài" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
