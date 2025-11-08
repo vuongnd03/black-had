@@ -52,6 +52,9 @@
         <mxCell id="Cu6mn6LIJM333gx_h7OB-15" value="cập nhật thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-16" value="theo dõi tiến độ học tập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
