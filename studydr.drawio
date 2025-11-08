@@ -320,31 +320,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-66" value="Học tập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-67" value="xem slide đã được trên trường" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-68" value="Làm bài tập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-69" value="Các bài đã làm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-70" value="hiển thị các bài đã làm + Điểm số" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-71" value="Thông báo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-72" value="nhận thông báo khi có bài tập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-73" value="xem chi tiết các bài đã làm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-74" value="quản lý thông tin cá nhân" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-75" value="Các bài đã làm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-76" value="đọc tài liệu mà cô upload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
