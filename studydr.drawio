@@ -325,6 +325,9 @@
         <mxCell id="Cu6mn6LIJM333gx_h7OB-67" value="xem slide đã được trên trường" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-68" value="Làm bài tập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
