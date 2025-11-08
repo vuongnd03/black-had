@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="Cmd96oQs_vk9mbmMmgYQ">
-    <mxGraphModel dx="864" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-22" value="tự động gửi thông báo làm bài cho học sinh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-24" value="tạo phòng học" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
