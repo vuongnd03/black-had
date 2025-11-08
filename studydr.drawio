@@ -177,7 +177,7 @@
         </mxCell>
         <mxCell id="Cu6mn6LIJM333gx_h7OB-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="500" as="sourcePoint" />
             <mxPoint x="520" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -310,8 +310,14 @@
         <mxCell id="Cu6mn6LIJM333gx_h7OB-62" value="học sinh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cu6mn6LIJM333gx_h7OB-63" value="chia sẻ slide đã trình chiếu cho học sinh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-64" value="chia sẻ slide đã trình chiếu cho học sinh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu6mn6LIJM333gx_h7OB-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Cu6mn6LIJM333gx_h7OB-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="500" as="sourcePoint" />
+            <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
