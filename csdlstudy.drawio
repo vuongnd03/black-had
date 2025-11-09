@@ -38,7 +38,7 @@
           <mxGeometry y="120" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1ZvENtPnNgRn41Z360Q-5" value="user_tenants" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="45" width="140" height="210" as="geometry" />
+          <mxGeometry x="440" y="45" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="W1ZvENtPnNgRn41Z360Q-6" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W1ZvENtPnNgRn41Z360Q-5">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="W1ZvENtPnNgRn41Z360Q-21" value="password_hash" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W1ZvENtPnNgRn41Z360Q-5">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W1ZvENtPnNgRn41Z360Q-22" value="status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W1ZvENtPnNgRn41Z360Q-5">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1ZvENtPnNgRn41Z360Q-9" value="user_role" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-135" width="140" height="150" as="geometry" />
