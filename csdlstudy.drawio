@@ -153,16 +153,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WxDZcfVMc70cMOu-60EN-10" value="activity_log" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="440" width="140" height="120" as="geometry" />
+          <mxGeometry x="640" y="440" width="140" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="WxDZcfVMc70cMOu-60EN-11" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
+        <mxCell id="WxDZcfVMc70cMOu-60EN-11" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WxDZcfVMc70cMOu-60EN-12" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="WxDZcfVMc70cMOu-60EN-12" value="actor_id( (người thực hiện hành động, ví dụ giáo viên))" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
+          <mxGeometry y="60" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WxDZcfVMc70cMOu-60EN-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="WxDZcfVMc70cMOu-60EN-13" value="actor_role_id(role của người thực hiện)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
+          <mxGeometry y="110" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WxDZcfVMc70cMOu-60EN-14" value="actor_role_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
+          <mxGeometry y="140" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
