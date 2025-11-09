@@ -111,7 +111,7 @@
         <mxCell id="W1ZvENtPnNgRn41Z360Q-37" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-start=&quot;566&quot; data-end=&quot;582&quot; data-col-size=&quot;sm&quot;&gt;user_id&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-start=&quot;582&quot; data-end=&quot;603&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W1ZvENtPnNgRn41Z360Q-34">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W1ZvENtPnNgRn41Z360Q-40" value="tenant_code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W1ZvENtPnNgRn41Z360Q-34">
+        <mxCell id="W1ZvENtPnNgRn41Z360Q-40" value="role_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="W1ZvENtPnNgRn41Z360Q-34">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
