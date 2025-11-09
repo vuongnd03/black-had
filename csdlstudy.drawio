@@ -164,7 +164,7 @@
         <mxCell id="WxDZcfVMc70cMOu-60EN-13" value="actor_role_id(role của người thực hiện)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
           <mxGeometry y="110" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WxDZcfVMc70cMOu-60EN-14" value="actor_role_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
+        <mxCell id="WxDZcfVMc70cMOu-60EN-14" value="tenant_code&lt;br&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;md&quot; data-start=&quot;1297&quot; data-end=&quot;1323&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxDZcfVMc70cMOu-60EN-10">
           <mxGeometry y="140" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
