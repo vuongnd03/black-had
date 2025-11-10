@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Page-1" id="yf32oQSPvLIv9Zgo9ILn">
-    <mxGraphModel dx="1080" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,31 +186,28 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-6" value="teacher" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1100" width="140" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="TdFR-y7MFS8AVQZT8KoW-7" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry x="210" y="1100" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-20" value="teacher_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-8" value="&amp;nbsp;tenant_code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-9" value="user_id UUID," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-10" value="&amp;nbsp;full_name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-15" value="&amp;nbsp;username" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-17" value="môn" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="210" width="140" height="30" as="geometry" />
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-25" value="ngay/thang/năm sinh" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-6">
-          <mxGeometry y="240" width="140" height="30" as="geometry" />
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-11" value="class_teacher" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="990" width="140" height="150" as="geometry" />
@@ -221,10 +218,10 @@
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-18" value="tenant_code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TdFR-y7MFS8AVQZT8KoW-13" value="teacher_id UUID," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
+        <mxCell id="TdFR-y7MFS8AVQZT8KoW-13" value="teacher_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TdFR-y7MFS8AVQZT8KoW-14" value="&lt;div&gt;&amp;nbsp; class_id UUID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
+        <mxCell id="TdFR-y7MFS8AVQZT8KoW-14" value="&lt;div&gt;&amp;nbsp; class_id&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdFR-y7MFS8AVQZT8KoW-13" target="TdFR-y7MFS8AVQZT8KoW-20">
