@@ -244,10 +244,10 @@
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-18" value="tenant_code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TdFR-y7MFS8AVQZT8KoW-13" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
+        <mxCell id="TdFR-y7MFS8AVQZT8KoW-13" value="&amp;nbsp; student_id UUID," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TdFR-y7MFS8AVQZT8KoW-14" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
+        <mxCell id="TdFR-y7MFS8AVQZT8KoW-14" value="&lt;div&gt;&amp;nbsp; class_id UUID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdFR-y7MFS8AVQZT8KoW-11">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
