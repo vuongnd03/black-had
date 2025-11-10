@@ -244,10 +244,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W1ZvENtPnNgRn41Z360Q-8" target="W1ZvENtPnNgRn41Z360Q-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="115" />
+              <mxPoint x="613" y="-20" />
+              <mxPoint x="700" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TdFR-y7MFS8AVQZT8KoW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W1ZvENtPnNgRn41Z360Q-37" target="W1ZvENtPnNgRn41Z360Q-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdFR-y7MFS8AVQZT8KoW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W1ZvENtPnNgRn41Z360Q-42" target="W1ZvENtPnNgRn41Z360Q-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="295" />
+              <mxPoint x="340" y="-50" />
+              <mxPoint x="610" y="-50" />
+              <mxPoint x="610" y="-30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
