@@ -382,6 +382,15 @@
         <mxCell id="-UyHD0Lc4dNAfPJZUfL4-5" value="danh sách học sinh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-UyHD0Lc4dNAfPJZUfL4-6" value="Tổng số giáo viên&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UyHD0Lc4dNAfPJZUfL4-7" value="Tổng số học sinh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UyHD0Lc4dNAfPJZUfL4-8" value="Tỉ lệ học sinh hoàn thành bài tập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
