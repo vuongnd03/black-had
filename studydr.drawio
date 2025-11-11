@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-UyHD0Lc4dNAfPJZUfL4-1" value="hiệu trưởng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-750" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="-770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UyHD0Lc4dNAfPJZUfL4-3" value="dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-590" width="120" height="60" as="geometry" />
@@ -428,6 +428,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1249.74" y="-620" as="sourcePoint" />
             <mxPoint x="1249.74" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-UyHD0Lc4dNAfPJZUfL4-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="-620" as="sourcePoint" />
+            <mxPoint x="960" y="-710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
