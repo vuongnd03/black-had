@@ -376,7 +376,7 @@
         <mxCell id="-UyHD0Lc4dNAfPJZUfL4-3" value="dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UyHD0Lc4dNAfPJZUfL4-4" value="danh sách giáo viên" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-UyHD0Lc4dNAfPJZUfL4-4" value="Quản lý giáo viên" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UyHD0Lc4dNAfPJZUfL4-5" value="Quản lý học sinh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
