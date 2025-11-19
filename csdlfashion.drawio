@@ -70,7 +70,7 @@
         <mxCell id="4IMKtfuAcK1Tiu6-hqYM-20" value="images" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="230" width="165" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4IMKtfuAcK1Tiu6-hqYM-21" value="images_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4IMKtfuAcK1Tiu6-hqYM-20" vertex="1">
+        <mxCell id="4IMKtfuAcK1Tiu6-hqYM-21" value="product_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4IMKtfuAcK1Tiu6-hqYM-20" vertex="1">
           <mxGeometry y="30" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4IMKtfuAcK1Tiu6-hqYM-22" value="urlImage(ảnh chính)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4IMKtfuAcK1Tiu6-hqYM-20" vertex="1">
