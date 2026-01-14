@@ -7,14 +7,74 @@
         <mxCell id="7O98AfDMmAbzW93CGUhY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thiết kế db app cho thuê phòng trọ" vertex="1">
           <mxGeometry height="30" width="190" x="370" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="7O98AfDMmAbzW93CGUhY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="chức năng của user" vertex="1">
+        <mxCell id="7O98AfDMmAbzW93CGUhY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="nhóm chức năng người dùng chung (cả người dùng và chủ trọ )&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="7O98AfDMmAbzW93CGUhY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Đăng ký, Đăng nhập" vertex="1">
+        <mxCell id="7O98AfDMmAbzW93CGUhY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tài khoản &amp;amp; hồ sơ" vertex="1">
           <mxGeometry height="60" width="120" x="-210" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="7O98AfDMmAbzW93CGUhY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Xem danh sách phòng trọ" vertex="1">
+        <mxCell id="7O98AfDMmAbzW93CGUhY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TÌm kiếm và duyệt phòng trọ" vertex="1">
           <mxGeometry height="60" width="120" x="-20" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chi tiết phòng trọ" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-120" y="330" as="sourcePoint" />
+            <mxPoint x="650" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="7O98AfDMmAbzW93CGUhY-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-120" y="330" as="sourcePoint" />
+            <mxPoint x="-70" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7O98AfDMmAbzW93CGUhY-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="330" as="sourcePoint" />
+            <mxPoint x="90" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1_E8RaSr07ceUjAENCCB-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="330" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Yêu thích và lịch sử" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="1_E8RaSr07ceUjAENCCB-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="330" as="sourcePoint" />
+            <mxPoint x="520" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Thông báo" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1_E8RaSr07ceUjAENCCB-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="700" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Đăng ký &amp;amp; Đăng nhập" vertex="1">
+          <mxGeometry height="40" width="95" x="-195" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quên mật khẩu" vertex="1">
+          <mxGeometry height="40" width="95" x="-195" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cập nhật hồ sơ" vertex="1">
+          <mxGeometry height="40" width="95" x="-195" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Đổi mật khẩu" vertex="1">
+          <mxGeometry height="40" width="95" x="-195" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Đăng xuất" vertex="1">
+          <mxGeometry height="40" width="95" x="-195" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
