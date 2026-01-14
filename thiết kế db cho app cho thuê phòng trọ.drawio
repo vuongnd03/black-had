@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
+  <diagram name="Trang-1" id="MSft6P9EcvYur-iAL4ju">
+    <mxGraphModel dx="1654" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7O98AfDMmAbzW93CGUhY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thiết kế db app cho thuê phòng trọ" vertex="1">
+          <mxGeometry height="30" width="190" x="370" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7O98AfDMmAbzW93CGUhY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="chức năng của user" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7O98AfDMmAbzW93CGUhY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Đăng ký, Đăng nhập" vertex="1">
+          <mxGeometry height="60" width="120" x="-210" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7O98AfDMmAbzW93CGUhY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Xem danh sách phòng trọ" vertex="1">
+          <mxGeometry height="60" width="120" x="-20" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
