@@ -94,6 +94,9 @@
             <mxPoint x="640" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1_E8RaSr07ceUjAENCCB-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Xem trên google map, tìm theo bán kính" vertex="1">
+          <mxGeometry height="40" width="95" x="-7.5" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
